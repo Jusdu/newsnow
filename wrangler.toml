@@ -1,5 +1,5 @@
-name = "newsnow"  # 你的项目名称
-type = "javascript"
+# name = "newsnow"  # 你的项目名称
+# type = "javascript"
 pages_build_output_dir = "dist/output/public"
 
 [[d1_databases]]
